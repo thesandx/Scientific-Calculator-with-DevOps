@@ -8,5 +8,6 @@ public class Menu {
         System.out.print("3.Natural logarithm (base е) - ln(x)\n");
         System.out.print("4.Power function - x^b\n");
         System.out.print("5.Exit\n");
+        System.out.println();
     }
 }

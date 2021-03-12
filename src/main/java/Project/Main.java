@@ -19,23 +19,28 @@ public class Main {
                 case 1:
                     System.out.print("Enter value of x\n");
                     double d = s.nextDouble();
+                    System.out.println();
                     System.out.println("Answer is " + calculator.calculateRoot(d));
                     break;
                 case 2:
                     System.out.print("Enter value of x\n");
                     int d1 = s.nextInt();
+                    System.out.println();
                     System.out.println("Answer is " + calculator.calculateFactorial(d1));
                     break;
                 case 3:
                     System.out.print("Enter value of x\n");
                     double d2 = s.nextDouble();
+                    System.out.println();
                     System.out.println("Answer is " + calculator.calculateLog(d2));
                     break;
                 case 4:
                     System.out.print("Enter value of x\n");
                     double x = s.nextDouble();
+                    System.out.println();
                     System.out.print("Enter value of b\n");
                     double b = s.nextDouble();
+                    System.out.println();
                     System.out.println("Answer is " + calculator.calculatePower(x,b));
                     break;
 
