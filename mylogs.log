@@ -1,0 +1,13 @@
+[INFO ] 2021-03-15 00:24:05.387 [main] Main - Root calculation initiated
+[INFO ] 2021-03-15 00:24:08.397 [main] Main - value entered for root calculation is 24.0
+[INFO ] 2021-03-15 00:24:08.398 [main] Main - answer is  4.898979485566356
+[ERROR] 2021-03-15 00:24:11.099 [main] Main - Invalid choice entered
+[INFO ] 2021-03-15 00:24:13.617 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-15 00:24:16.066 [main] Main - value entered for factorial calculation is 45
+[INFO ] 2021-03-15 00:24:16.066 [main] Main - answer is  0
+[INFO ] 2021-03-15 00:24:32.014 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-15 00:24:33.288 [main] Main - value entered for factorial calculation is 6
+[INFO ] 2021-03-15 00:24:33.288 [main] Main - answer is  720
+[INFO ] 2021-03-15 00:24:37.031 [main] Main - Log calculation initiated
+[INFO ] 2021-03-15 00:24:38.396 [main] Main - value entered for log calculation is 45.0
+[INFO ] 2021-03-15 00:24:38.397 [main] Main - answer is  3.8066624897703196
