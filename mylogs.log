@@ -11,3 +11,55 @@
 [INFO ] 2021-03-15 00:24:37.031 [main] Main - Log calculation initiated
 [INFO ] 2021-03-15 00:24:38.396 [main] Main - value entered for log calculation is 45.0
 [INFO ] 2021-03-15 00:24:38.397 [main] Main - answer is  3.8066624897703196
+[INFO ] 2021-03-17 19:48:20.686 [main] Main - Root calculation initiated
+[INFO ] 2021-03-17 19:48:23.479 [main] Main - value entered for root calculation is 2.0
+[INFO ] 2021-03-17 19:48:23.479 [main] Main - answer is  1.4142135623730951
+[INFO ] 2021-03-17 19:48:30.986 [main] Main - Log calculation initiated
+[INFO ] 2021-03-17 19:48:32.746 [main] Main - value entered for log calculation is 45.0
+[INFO ] 2021-03-17 19:48:32.747 [main] Main - answer is  3.8066624897703196
+[ERROR] 2021-03-17 19:48:35.196 [main] Main - Invalid choice entered
+[INFO ] 2021-03-17 19:48:39.007 [main] Main - Log calculation initiated
+[INFO ] 2021-03-17 19:48:42.340 [main] Main - value entered for log calculation is 45.0
+[INFO ] 2021-03-17 19:48:42.341 [main] Main - answer is  3.8066624897703196
+[INFO ] 2021-03-17 19:48:44.557 [main] Main - Power calculation initiated
+[INFO ] 2021-03-17 19:48:46.988 [main] Main - value entered for power calculation is 3.0 and 5.0
+[INFO ] 2021-03-17 19:48:46.989 [main] Main - answer is  243.0
+[INFO ] 2021-03-17 19:48:49.725 [main] Main - Log calculation initiated
+[INFO ] 2021-03-17 19:48:51.224 [main] Main - value entered for log calculation is 2.0
+[INFO ] 2021-03-17 19:48:51.224 [main] Main - answer is  0.6931471805599453
+[INFO ] 2021-03-17 19:48:53.151 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:48:54.222 [main] Main - value entered for factorial calculation is 5
+[INFO ] 2021-03-17 19:48:54.223 [main] Main - answer is  120
+[INFO ] 2021-03-17 19:48:55.218 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:48:56.350 [main] Main - value entered for factorial calculation is 7
+[INFO ] 2021-03-17 19:48:56.351 [main] Main - answer is  5040
+[ERROR] 2021-03-17 19:48:57.267 [main] Main - Invalid choice entered
+[INFO ] 2021-03-17 19:49:01.639 [main] Main - Log calculation initiated
+[INFO ] 2021-03-17 19:49:03.373 [main] Main - value entered for log calculation is 23.0
+[INFO ] 2021-03-17 19:49:03.373 [main] Main - answer is  3.1354942159291497
+[INFO ] 2021-03-17 19:49:06.391 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:49:10.226 [main] Main - value entered for factorial calculation is 6
+[INFO ] 2021-03-17 19:49:10.226 [main] Main - answer is  720
+[INFO ] 2021-03-17 19:49:39.371 [main] Main - Root calculation initiated
+[INFO ] 2021-03-17 19:49:40.483 [main] Main - value entered for root calculation is 34.0
+[INFO ] 2021-03-17 19:49:40.483 [main] Main - answer is  5.830951894845301
+[INFO ] 2021-03-17 19:49:42.301 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:49:44.768 [main] Main - value entered for factorial calculation is 34
+[INFO ] 2021-03-17 19:49:44.769 [main] Main - answer is  0
+[INFO ] 2021-03-17 19:49:47.665 [main] Main - Log calculation initiated
+[INFO ] 2021-03-17 19:49:49.060 [main] Main - value entered for log calculation is 456.0
+[INFO ] 2021-03-17 19:49:49.060 [main] Main - answer is  6.1224928095143865
+[INFO ] 2021-03-17 19:49:51.194 [main] Main - Power calculation initiated
+[INFO ] 2021-03-17 19:49:54.631 [main] Main - value entered for power calculation is 34.0 and 2.0
+[INFO ] 2021-03-17 19:49:54.632 [main] Main - answer is  1156.0
+[ERROR] 2021-03-17 19:49:58.625 [main] Main - Invalid choice entered
+[ERROR] 2021-03-17 19:50:01.004 [main] Main - Invalid choice entered
+[INFO ] 2021-03-17 19:50:02.284 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:50:04.094 [main] Main - value entered for factorial calculation is 3
+[INFO ] 2021-03-17 19:50:04.094 [main] Main - answer is  6
+[INFO ] 2021-03-17 19:50:05.849 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:50:07.540 [main] Main - value entered for factorial calculation is 3
+[INFO ] 2021-03-17 19:50:07.540 [main] Main - answer is  6
+[INFO ] 2021-03-17 19:50:09.155 [main] Main - factorial calculation initiated
+[INFO ] 2021-03-17 19:50:12.054 [main] Main - value entered for factorial calculation is 4
+[INFO ] 2021-03-17 19:50:12.054 [main] Main - answer is  24
